@@ -29,3 +29,11 @@ console.log(user);
 console.log(json);
 
 console.log(JSON.parse(json).name);
+
+//npm, pnpm, yarn
+//npm init => initialize empty node project
+//npm init -y =>initialize empty node project
+//npm run <script-name> =>run script name
+//npm install <packagename> npm i <packagename>@version
+// npm i url@0.7.9
+//npm uninstall <packagename>
